@@ -10,5 +10,4 @@ console.log("a soma é: " + somar(20,90));
 console.log("a média é: " + media(20,90));
 console.log("a multiplicação é: " + multi(20,90));
 console.log("a divisão é: " + dividi(20,90));
-console.log(mensagem(nome));
-console.log(mensagem(burin));
+console.log(mensagem(nome,burin));
