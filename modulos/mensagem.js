@@ -1,4 +1,4 @@
-var mensagem = function (nome) {
-    return "legal ne " + nome;
+var mensagem = function (nome,burin) {
+    return "legal ne " + nome + burin;
   }; 
   module.exports = mensagem;
